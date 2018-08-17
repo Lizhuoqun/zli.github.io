@@ -5,6 +5,12 @@ excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
+* **Query-based Workload Forecasting for Self-Driving Database Management Systems**<br/>
+Lin Ma, Dana Van Aken, Ahmed Hefny, Gustavo Mezerhane, Andrew Pavlo, Geoffrey J. Gordon
+<br/>
+*SIGMOD 2018*
+[[pdf]](2018.forecasting.sigmod.pdf)[[slides]](slides/forecasting-sigmod2018.pdf)[[code]](https://github.com/malin1993ml/QueryBot5000)[[poster]](posters/forecasting-sigmod18-poster.pdf)[[video]](https://www.youtube.com/watch?v=ZHAyrsVZfiU)
+
 * **Self-Driving Database Management Systems**<br/>
 Andrew Pavlo, Gustavo Angulo, Joy Arulraj, Haibin Lin, Jiexi Lin, Lin Ma, Prashanth
 Menon, Todd C Mowry, Matthew Perron, Ian Quah, et al.<br/>
@@ -14,7 +20,7 @@ Menon, Todd C Mowry, Matthew Perron, Ian Quah, et al.<br/>
 * **Larger-than-Memory Data Management on Modern Storage Hardware for In-Memory OLTP Database Systems**<br/>
 Lin Ma, Joy Arulraj, Sam Zhao, Andrew Pavlo, Subramanya R. Dulloor, Michael J. Giardino, Jeff Parkhurst, Jason L. Gardner, Kshitij Doshi, Stanley Zdonik<br/>
 *DAMON 2016*
-[[pdf]](2016.hardware.damon.pdf)
+[[pdf]](2016.hardware.damon.pdf)[[slides]](slides/hardware-damon2016.pdf)[[code]](https://github.com/apavlo/h-store/tree/master/src/ee/anticache)
 
 * **Reducing the storage overhead of main-memory OLTP databases with hybrid indexes**<br/>
 Huanchen Zhang, David G Andersen, Andrew Pavlo, Michael Kaminsky, Lin Ma, Rui Shen<br/>
