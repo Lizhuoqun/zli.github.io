@@ -1,12 +1,13 @@
 # Site wide configuration
 
-#title: Lin Ma - Carnegie Mellon University
-title: Lin Ma
+title: Jin Shang
 locale: en_US
-#description: Describe your website here.
-logo: weblogo.png
+description: 
+logo: weblogo.jpg
 search: true
-url: http://www.cs.cmu.edu/~malin199
+# url: http://www.cs.cmu.edu/~malin199
+# url: https://js8544.github.io/about/index.html
+url: http://localhost:4000 
 
 # Jekyll configuration
 
@@ -34,23 +35,23 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Lin Ma 
+  name: Jin Shang
   avatar: bio-photo.jpg
-  email: lin.ma@cs.cmu.edu
+  email: shangjin1997@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: lin.ma.39794
-  github: malin1993ml
+  facebook: #username
+  github: js8544
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: jin-shang-49609710a
+  instagram: js8544
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
-    plus: LinMa1
-    analytics: malin1993ml
+    plus: 
+    analytics: 
     verify:
     ad-client:
     ad-slot:
