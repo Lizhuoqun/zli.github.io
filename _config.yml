@@ -13,7 +13,7 @@ url: https://jinshang.me
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter:  rouge
+highlighter:  rouge1
 sass:
   sass_dir: _sass
   style: compressed
