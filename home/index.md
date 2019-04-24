@@ -11,25 +11,25 @@ Being in a global Liberal Arts College, I was exposed to a variety of discipline
 I believe I have a [Erdös number](/erdos/) of 5.
 
 ## Recent Updates
-**2019-04-23**
+**2019-04-23**  
 My paper [**The roots of exceptional modular Lie superalgebras with Cartan matrix**](https://arxiv.org/abs/1904.09578) is available on arXiv.
 
-**2019-04-23**
+**2019-04-23**  
 My paper [**Computer-aided study of double extensions of restricted Lie superalgebras preserving the non-degenerate closed 2-forms in characteristic 2**](https://arxiv.org/abs/1904.09579) is available on arXiv.
 
-**2019-04-07**
+**2019-04-07**  
 My paper [**Real-Time Transmission Mechanism Design for Wireless IoT Sensors with Energy Harvesting under Power Saving Mode**](https://arxiv.org/abs/1812.02615) is available on arXiv.
 
-**2019-03-28**
+**2019-03-28**  
 I have decided to enroll in the [**M.S. in CS**](https://www.csd.cs.cmu.edu/academics/masters/overview#mscsoverview) program at [**Carnegie Mellon University**](http://www.cs.cmu.edu/)
 
-**2019-03-21**
+**2019-03-21**  
 I am accepted to **U.C. Berkeley's** [**M.Eng in EECS**](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng)program.
 
-**2019-02-28**
+**2019-02-28**  
 I am accepted to **Yale University's** [**M.S. in CS**](https://cpsc.yale.edu/academics/graduate-program) program.
 
-**2019-02-25**
+**2019-02-25**  
 I am accepted to **Carnegie Mellon University's** [**M.S. in CS**](https://www.csd.cs.cmu.edu/academics/masters/overview#mscsoverview) program.
 
 
