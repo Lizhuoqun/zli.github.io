@@ -8,6 +8,7 @@ I am an incoming MSCS student in the Computer Science Department at [Carnegie Me
 
 Being in a global Liberal Arts College, I was exposed to a variety of disciplines. I have studied Art History, Astronomy, Computer Science, Electrical and Computer Engineering, English Literature, Finance, Interactive Media, Mathematics (Pure and Applied) and Philosophy in college. I have studied in global campuses of NYU including Abu Dhabi, London, New York and Shanghai. I have interned as Financial Analyst, Research Assitant and Software Developer.  My current research interests include: Lie algebra and Lie superalgebras, Algebraic Geometry, Supersymmetry and Supermanifold, Internet of Things. For details please refer to my [Resume](/resume.pdf) and [Linkedin Profile](https://www.linkedin.com/in/jin-shang-49609710a/)
 
+I believe I have a [Erdös number](/erdos/) of 5.
 
 **2019-04-23**
 My paper [**The roots of exceptional modular Lie superalgebras with Cartan matrix**](https://arxiv.org/abs/1904.09578) is available on arXiv.
