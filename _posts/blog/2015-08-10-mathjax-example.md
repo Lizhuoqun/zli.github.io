@@ -2,7 +2,7 @@
 layout: post
 title: "MathJax Example"
 modified:
-categories: articles
+categories: blog
 excerpt:
 tags: []
 image:
