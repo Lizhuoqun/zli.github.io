@@ -11,7 +11,9 @@ date: 2019-05-08
 ---
 Recently, when I was working on my [capstone paper](https://arxiv.org/abs/1904.09579) for my undergraduate degree at NYUAD, I felt obliged to follow NYU's [visual guideline](https://www.nyu.edu/employees/resources-and-services/media-and-communications/styleguide.html) when making my presentations and posters. It turned out easier than I thought to adopt NYU's color scheme. So I decided to make a template available to everyone at NYU. I have included styles for NYU, NYU Abu Dhabi and NYU Shanghai.
 
-It is available at my [Github Repo](https://github.com/js8544/nyu-latex-templates)
+Here are template pdf files: [poster](/files/poster.pdf)  [presentation](/files/presentation.pdf).
+
+They are available at my [Github Repo](https://github.com/js8544/nyu-latex-templates).
 
 ## Demos
 
