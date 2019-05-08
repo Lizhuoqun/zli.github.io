@@ -13,14 +13,15 @@ Recently, when I was working on my [capstone paper](https://arxiv.org/abs/1904.0
 
 It is available at my [Github Repo](https://github.com/js8544/nyu-latex-templates)
 
-### Demos
+## Demos
 
+### Poster
 ![Poster](/images/demo-poster.png)
 
-
+### Presentation
 ![Presentation](/images/demo-presentation.png)
 
 
-### Acknowledgment
+## Acknowledgment
 The poster template is based on the [Jacobs Landscape Poster](https://www.overleaf.com/latex/templates/landscape-beamer-poster-template/vjpmsxxdvtqk) and the presentation template is based on the [Unofficial NEO UEA Template](https://www.overleaf.com/latex/templates/unofficial-neo-uea-template/qvhndvzjqmqj).
 
