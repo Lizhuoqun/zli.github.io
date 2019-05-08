@@ -2,7 +2,7 @@
 layout: post
 title: "Test Sample Post"
 modified:
-categories: blog
+categories: article
 excerpt:
 tags: []
 image:
