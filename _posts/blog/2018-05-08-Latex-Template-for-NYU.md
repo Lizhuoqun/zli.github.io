@@ -21,7 +21,11 @@ They are available at my [Github Repo](https://github.com/js8544/nyu-latex-templ
 ![Poster](/images/demo-poster.png)
 
 ### Presentation
-![Presentation](/images/demo-presentation.png)
+![Presentation1](https://jinshang.me/images/demo-presentation.png)
+
+![Presentation2](https://jinshang.me/images/demo-presentation2.png)
+
+![Presentation3](https://jinshang.me/images/demo-presentation3.png)
 
 
 ## Acknowledgment
