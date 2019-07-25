@@ -7,6 +7,6 @@ search_omit: false
 
 <ul class="post-list">
 {% for post in site.categories.blog %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}"><b><h2> {{ post.title }} </h2></b><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt"><small>{{ post.excerpt }}</small></span>{% endif %}</a></article></li>
+  <li><article><a href="{{ site.url }}{{ post.url }}"><b><h2> {{ post.title }} </h2></b><br><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt"><small>{{ post.excerpt }}</small></span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
