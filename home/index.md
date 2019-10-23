@@ -25,35 +25,3 @@ My paper [**Computer-aided study of double extensions of restricted Lie superalg
 
 **2019-04-07**  
 My paper [**Real-Time Transmission Mechanism Design for Wireless IoT Sensors with Energy Harvesting under Power Saving Mode**](https://arxiv.org/abs/1812.02615) is available on arXiv.
-<!-- 
-**2019-03-28**  
-I have decided to enroll in the [**M.S. in CS**](https://www.csd.cs.cmu.edu/academics/masters/overview#mscsoverview) program at [**Carnegie Mellon University**](http://www.cs.cmu.edu/)
-
-**2019-03-21**  
-I am accepted to **U.C. Berkeley's** [**M.Eng in EECS**](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng)program.
-
-**2019-02-28**  
-I am accepted to **Yale University's** [**M.S. in CS**](https://cpsc.yale.edu/academics/graduate-program) program.
-
-**2019-02-25**  
-I am accepted to **Carnegie Mellon University's** [**M.S. in CS**](https://www.csd.cs.cmu.edu/academics/masters/overview#mscsoverview) program. -->
-
-
-
-
-<!-- Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to
-[**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
-
-## So Simple Theme is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title* -->
