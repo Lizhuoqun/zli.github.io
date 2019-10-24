@@ -1,3 +1,18 @@
+---
+layout: post
+title: "Tree Traversal"
+modified:
+categories: blog
+excerpt:
+tags: [leetcode]
+image:
+  feature:
+date: 2019-10-23
+
+---
+
+
+
 ```c++
 void preorder_traversal_iteratively(TreeNode* root)
 {
