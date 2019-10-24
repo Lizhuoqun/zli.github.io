@@ -1,3 +1,19 @@
+---
+layout: post
+title: "SweepLine"
+modified:
+categories: blog
+excerpt:
+tags: [leetcode]
+image:
+  feature:
+date: 2019-10-23
+
+
+---
+
+SweepLine algorithm for finding all intersections
+
 ```
 sweepLineIntersection(Points[0..2n-1]):
 1. Sort Points[] from left to right (according to x coordinate) (priority_queue)
