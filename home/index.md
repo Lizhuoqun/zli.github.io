@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "Jin Shang"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
@@ -11,6 +11,9 @@ Having studied in a global Liberal Arts College, I was exposed to a variety of d
 For details please refer to my [Resume](/resume.pdf) ,[Github](https://github.com/js8544) and [Linkedin Profile](https://www.linkedin.com/in/jin-shang-49609710a/)
 
 ## Recent Updates
+**2020-05-18**
+I have started my internship at Google Cloud AI Platform.
+
 **2020-02-18**
 My paper [**The roots of exceptional modular Lie superalgebras with Cartan matrix**](https://arxiv.org/abs/1904.09578) is accepted to Arnold Math Journal.
 
