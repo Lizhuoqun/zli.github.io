@@ -1,3 +1,15 @@
+---
+layout: post
+title: "JustMySocks+Qv2ray极简教程"
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+  feature:
+date: 2020-08-03
+
+---
 justmysocks [官网链接](https://justmysocks.net/members/aff.php?aff=259)
 
 标准价格：$5.88/月 起
