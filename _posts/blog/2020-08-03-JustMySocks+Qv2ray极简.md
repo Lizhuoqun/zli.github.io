@@ -64,10 +64,10 @@ justmysocks [官网链接](https://justmysocks.net/members/aff.php?aff=259)
 
 # 电脑端
 
-推荐使用[Qv2ray](https://qv2ray.net/)，教程参考：https://qv2ray.net/getting-started/。教程细节很多，实际就四步：
+使用[Qv2ray](https://qv2ray.net/)，教程参考：https://qv2ray.net/getting-started/。教程细节很多，实际就四步：
 
-1. 从(Github Release)[https://github.com/Qv2ray/Qv2ray/releases/]下载对应系统的Qv2ray版本
-2. 从(V2Ray Core)[https://github.com/v2fly/v2ray-core/releases]下载对应系统的v2ray core版本
+1. 从[Github Release](https://github.com/Qv2ray/Qv2ray/releases/)下载对应系统的Qv2ray版本
+2. 从[V2Ray Core](https://github.com/v2fly/v2ray-core/releases)下载对应系统的v2ray core版本
 3. 打开Qv2ray首选项-内核设置， 找到核心可执行文件目录路径，把下载的v2ray core解压拷贝进去然后验证就可以了
 4. 新建链接，把五个通关密语链接拷贝进来即可
 
@@ -75,6 +75,6 @@ justmysocks [官网链接](https://justmysocks.net/members/aff.php?aff=259)
 
 # 手机端
 
-ios端推荐Shadowrocket， 海外账号app store可下，app里直接扫上面的二维码就可添加连接。android端推荐Kitsunebi， play store可下。两个app都支持绕过大陆及局域网。
+ios端推荐Shadowrocket， 海外账号app store可下，app里直接扫上面的二维码就可添加连接。android端推荐Kitsunebi， play store可下。
 
-其他客户端请参考官方推荐<https://www.v2ray.com/awesome/tools.html>
+其他客户端请参考官方推荐https://www.v2ray.com/awesome/tools.html
