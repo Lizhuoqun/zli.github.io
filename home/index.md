@@ -3,25 +3,30 @@ layout: page
 excerpt: "Jin Shang"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
+Here are the "titles" I hold:
 
-I am an MSCS student in the Computer Science Department at [Carnegie Mellon University](http://www.cs.cmu.edu/). Before that, I am an undergraduate student at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/) where I majored in mathematics and computer science. I was advised by [Dr. Sofiane Bouarroudj](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/sofiane-bouarroudj.html) and [Dr. Dimitry Leites](http://staff.math.su.se/mleites/).
+1. Software Engineer Intern at Google where I worked on Cloud AI Platform Feature Store Team. I designed and implemented Batch Serving, which enables exporting large amounts of historical feature data from Feature Store. Batch Serving is typically used for exporting data for training ML models.
 
-Having studied in a global Liberal Arts College, I was exposed to a variety of disciplines. I have studied Art History, Astronomy, Computer Science, Electrical and Computer Engineering, English Literature, Finance, Interactive Media, Mathematics (Pure and Applied) and Philosophy in college. I have studied in global campuses of NYU including Abu Dhabi, London, New York and Shanghai. I have interned as Financial Analyst, Research Assitant and Software Developer. I believe that the variety of my academic and professional experiences is a unique treasure I can get nowhere else than NYU Abu Dhabi.
+2. Current MSCS student in the Computer Science Department at [CMU SCS](http://www.cs.cmu.edu/) with GPA: 4.05/4.00. Courses: Advanced Deep Learning (A+), Graduate Algorithms (A+), Intro to Computer Systems, Distributed System, Database System, Machine Learning for PhD, Theorists' Toolkit.
+
+3. Alumni of [New York University Abu Dhabi](https://nyuad.nyu.edu/en/), Class of 2019. Majored in Mathematics and Computer Science. Studied Art History, Astronomy, English Literature, Finance, Interactive Media and Philosophy.
+
+4. Alumni of Harbin No.3 High School, where I was the Vice President of Student Union and President of Model UN club.
 
 For details please refer to my [Resume](/files/resume_both.pdf) ,[Github](https://github.com/js8544) and [Linkedin Profile](https://www.linkedin.com/in/jin-shang-49609710a/)
 
 ## Recent Updates
 **2020-05-18**
-I have started my internship at Google Cloud AI Platform.
+I started my internship at Google Cloud AI Platform Feature Store.
 
 **2020-02-18**
-My paper [**The roots of exceptional modular Lie superalgebras with Cartan matrix**](https://arxiv.org/abs/1904.09578) is accepted to Arnold Math Journal.
+My paper [**The roots of exceptional modular Lie superalgebras with Cartan matrix**](https://arxiv.org/abs/1904.09578) is accepted to Arnold Math Journal 6(2020).
 
 **2020-02-12**
-I am joining Google Cloud as Software Developer Intern for Summer 2020. I will be working on the AI Platform team.
+I am joining Google Cloud as Software Developer Intern for Summer 2020. I will be working on the AI Platform Feature Store team.
 
 **2019-10-16**
-My paper [**Computer-aided study of double extensions of restricted Lie superalgebras preserving the non-degenerate closed 2-forms in characteristic 2**](https://arxiv.org/abs/1904.09579) is accepted to Experimental Mathematics.
+My paper [**Computer-aided study of double extensions of restricted Lie superalgebras preserving the non-degenerate closed 2-forms in characteristic 2**](https://arxiv.org/abs/1904.09579) is accepted to Experimental Mathematics 2019.
 
 **2019-08-03**
 I finished my internship at Tencent Technology where I worked at Wechat Group, Data Center, System Platform team.
