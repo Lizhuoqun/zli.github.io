@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{tikz}
+\begin{document}
+
+% \includegraphics{resume.pdf}
+
+\begin{tikzpicture}[remember picture,overlay]
+    \node[inner sep=0pt] at (current page.center) {\includegraphics[page=1]{resume.pdf}};
+  \end{tikzpicture}
+\newpage
+
+\begin{tikzpicture}[remember picture,overlay]
+    \node[inner sep=0pt] at (current page.center) {\includegraphics[page=1]{resume_chinese.pdf}};
+  \end{tikzpicture}
+\end{document}

@@ -8,7 +8,7 @@ I am an MSCS student in the Computer Science Department at [Carnegie Mellon Univ
 
 Having studied in a global Liberal Arts College, I was exposed to a variety of disciplines. I have studied Art History, Astronomy, Computer Science, Electrical and Computer Engineering, English Literature, Finance, Interactive Media, Mathematics (Pure and Applied) and Philosophy in college. I have studied in global campuses of NYU including Abu Dhabi, London, New York and Shanghai. I have interned as Financial Analyst, Research Assitant and Software Developer. I believe that the variety of my academic and professional experiences is a unique treasure I can get nowhere else than NYU Abu Dhabi.
 
-For details please refer to my [Resume](/resume.pdf) ,[Github](https://github.com/js8544) and [Linkedin Profile](https://www.linkedin.com/in/jin-shang-49609710a/)
+For details please refer to my [Resume](/files/resume.pdf) ,[Github](https://github.com/js8544) and [Linkedin Profile](https://www.linkedin.com/in/jin-shang-49609710a/)
 
 ## Recent Updates
 **2020-05-18**
