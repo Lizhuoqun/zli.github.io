@@ -3,6 +3,7 @@ layout: page
 excerpt: "Jin Shang"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
+
 Here are the "titles" I hold:
 
 1. Software Engineer Intern at Google where I worked on Cloud AI Platform Feature Store Team. I designed and implemented Batch Serving, which enables exporting large amounts of historical feature data from Feature Store. Batch Serving is typically used for exporting data for training ML models.
@@ -16,6 +17,13 @@ Here are the "titles" I hold:
 For details please refer to my [Resume](/files/resume_both.pdf) ,[Github](https://github.com/js8544) and [Linkedin Profile](https://www.linkedin.com/in/jin-shang-49609710a/)
 
 ## Recent Updates
+
+**2020-08-31**
+My new paper, Duflo-Serganova homology for exceptional modular Lie superalgebras with Cartan matrix, is available on [Arxiv](https://arxiv.org/abs/2008.12033).
+
+**2020-08-07**
+I finished my internship at Google, where I developed the batch serving function for Feature Store.
+
 **2020-05-18**
 I started my internship at Google Cloud AI Platform Feature Store.
 
