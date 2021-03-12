@@ -4,19 +4,26 @@ excerpt: "Jin Shang"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-Here are the "titles" I hold:
+I am a backend software engineer at WeChat, Tencent. I am part of the System Platform Team where I work on the Recommender System for WeChat Finder(视频号推荐系统). I am currently based in Guangzhou.
+
+Here are the "titles" I used to hold:
 
 1. Software Engineer Intern at Google where I worked on Cloud AI Platform Feature Store Team. I designed and implemented Batch Serving, which enables exporting large amounts of historical feature data from Feature Store. Batch Serving is typically used for exporting data for training ML models.
 
-2. Current MSCS student in the Computer Science Department at [CMU SCS](http://www.cs.cmu.edu/) with GPA: 4.05/4.00. Courses: Advanced Deep Learning (A+), Graduate Algorithms (A+), Intro to Computer Systems, Distributed System, Database System, Machine Learning for PhD, Theorists' Toolkit.
+2. Current MSCS student in the Computer Science Department at [CMU SCS](http://www.cs.cmu.edu/) with GPA: 4.05/4.00. Courses: Advanced Deep Learning (A+), Graduate Algorithms (A+), Compiler Design, Programming Languages, Intro to Computer Systems, Distributed System (also TAed), Database System, Machine Learning for PhD, Theorists' Toolkit.
 
-3. Alumni of [New York University Abu Dhabi](https://nyuad.nyu.edu/en/), Class of 2019. Majored in Mathematics and Computer Science. Studied Art History, Astronomy, English Literature, Finance, Interactive Media and Philosophy.
+3. Alumni of [New York University Abu Dhabi](https://nyuad.nyu.edu/en/), Class of 2019. Majored in Mathematics and Computer Science. Studied Art History, Astronomy, English Literature, Finance, Interactive Media and Philosophy. Advised by Sofiane Bouarroudj and Dimitry Leites.
 
 4. Alumni of Harbin No.3 High School, where I was the Vice President of Student Union and President of Model UN club.
 
 For details please refer to my [Resume](/files/resume_both.pdf) ,[Github](https://github.com/js8544) and [Linkedin Profile](https://www.linkedin.com/in/jin-shang-49609710a/)
 
 ## Recent Updates
+**2021-01-19**
+I joined WeChat, Tencent as a backend software engineer.
+
+**2021-12-23**
+I graduated from CMU MSCS.
 
 **2020-08-31**
 My new paper, Duflo-Serganova homology for exceptional modular Lie superalgebras with Cartan matrix, is available on [Arxiv](https://arxiv.org/abs/2008.12033).
