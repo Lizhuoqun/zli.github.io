@@ -4,7 +4,7 @@ excerpt: "Jin Shang"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-I am a backend software engineer at WeChat, Tencent. I am part of the AI Platform Team where I work on the Recommender Systems for a variety of services such as Wechat Finder（视频号）, Live（直播）, Subscription（订阅号）, etc. I am currently based in Guangzhou.
+I am a backend software engineer at WeChat, Tencent. I am part of the AI Platform Team where I work on the Recommender Systems for a variety of services such as Wechat Finder Live, Subscription, Security, WeComm, etc. I am currently based in Guangzhou.
 
 Here are the "titles" I used to hold:
 
