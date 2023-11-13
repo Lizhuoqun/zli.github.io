@@ -6,8 +6,8 @@
 #- title: Articles
 #  url: /articles/
 
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 
 #- title: Theme Setup
 #  url: /theme-setup/
@@ -19,10 +19,10 @@
 #  url: /miscellaneous/
 
 #- title:
-- title: Resume
-  url: /files/resume.pdf
+#- title: Resume
+#  url: /files/resume.pdf
 
-- title: 简历
-  url: /files/resume_chinese.pdf
+#- title: 简历
+#  url: /files/resume_chinese.pdf
 #- title: Search
 #  url: /search/
