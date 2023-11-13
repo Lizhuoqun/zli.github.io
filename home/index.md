@@ -1,22 +1,15 @@
 ---
 layout: page
-excerpt: "Jin Shang"
-modified: 2014-08-08T19:44:38.564948-04:00
+excerpt: "ZL"
+modified: 2023
 ---
 
-I am a backend software engineer at WeChat, Tencent. I am part of the AI Platform Team where I work on the Recommender Systems for a variety of services such as Wechat Finder Live, Subscription, Security, WeComm, etc. I am currently based in Guangzhou.
+## About Me
+I am a Ph.D. candidate at Louisiana State University， under the guidance of Dr. Mingxuan Sun. My research encompasses machine learning, information retrieval, and data science, with a specialized focus on creating models for temporal point processes, reinforcement learning, and causality discovery. Central to my work is the development of innovative methodologies tackling high-impact challenges across diverse fields such as recommender systems, police operations, disaster rescue, healthcare, hotspot prediction, etc. 
 
-Here are the "titles" I used to hold:
 
-1. Software Engineer Intern at Google where I worked on Cloud AI Platform Feature Store Team. I designed and implemented Batch Serving, which enables exporting large amounts of historical feature data from Feature Store. Batch Serving is typically used for exporting data for training ML models.
 
-2. Current MSCS student in the Computer Science Department at [CMU SCS](http://www.cs.cmu.edu/) with GPA: 4.05/4.00. Courses: Advanced Deep Learning (A+), Graduate Algorithms (A+), Compiler Design, Programming Languages, Intro to Computer Systems, Distributed System (also TAed), Database System, Machine Learning for PhD, Theorists' Toolkit.
 
-3. Alumni of [New York University Abu Dhabi](https://nyuad.nyu.edu/en/), Class of 2019. Majored in Mathematics and Computer Science. Studied Art History, Astronomy, English Literature, Finance, Interactive Media and Philosophy. Advised by Sofiane Bouarroudj and Dimitry Leites.
-
-4. Alumni of Harbin No.3 High School, where I was the Vice President of Student Union and President of Model UN club.
-
-For details please refer to my [Resume](/files/resume_both.pdf) ,[Github](https://github.com/js8544) and [Linkedin Profile](https://www.linkedin.com/in/jin-shang-49609710a/)
 
 ## Recent Updates
 **2021-01-19**
