@@ -3,8 +3,7 @@
 - title: Home
   url: /home/
 
-#- title: Articles
-#  url: /articles/
+
 
 #- title: Blog
 #  url: /blog/
@@ -15,8 +14,15 @@
 - title: Publications
   url: /publications/
 
-#- title: Miscellaneous
-#  url: /miscellaneous/
+- title: Experiences
+  url: /Experiences/
+
+- title: Awards
+  url: /Awards/
+
+- title: Projects
+  url: /Projects/
+
 
 #- title:
 #- title: Resume
@@ -24,5 +30,4 @@
 
 #- title: 简历
 #  url: /files/resume_chinese.pdf
-#- title: Search
-#  url: /search/
+
