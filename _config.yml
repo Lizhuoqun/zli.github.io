@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Jin Shang（尚晋）
+title: Zhuoqun Li
 locale: en_US
-description: Jin Shang（尚晋）'s personal website
+description: Zhuoqun Li's personal website
 logo: weblogo.png
 search: true
-url: https://jinshang.me
+url: https://zli218.github.io
 
 # Jekyll configuration
 
