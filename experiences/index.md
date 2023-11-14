@@ -14,7 +14,7 @@ modified: 2023
 
 - **Chinese Academy of Science, Shenzhen Institutes of Advanced Technology**<br/>
   Research Assistant    (2018.07 – 2018.12) <br/>
-  Contributed to the network design of a VR human-computer interaction system.
+  Contributed to the network design of a VR human-computer interaction system.<br/>
   Responsible for the algorithm about 3D point could matching.
   <br/>
 
