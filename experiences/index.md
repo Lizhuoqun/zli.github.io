@@ -9,18 +9,18 @@ modified: 2023
 ## Work Experiences
 - **Louisiana State University**<br/>
   Research Assistant    (2021.08 – Present) <br/>
-  Research lies in the broad area of machine learning, information retrieval, and data mining, with a particular interest in developing models for temporal point processes, imitation learning, and causal learning.
+  - Research lies in the broad area of machine learning, information retrieval, and data mining, with a particular interest in developing models for temporal point processes, imitation learning, and causal learning.
   <br/>
 
 - **Chinese Academy of Science, Shenzhen Institutes of Advanced Technology**<br/>
   Research Assistant    (2018.07 – 2018.12) <br/>
-  Contributed to the network design of a VR human-computer interaction system.<br/>
-  Responsible for the algorithm about 3D point could matching.
+  - Contributed to the network design of a VR human-computer interaction system.<br/>
+  - Responsible for the algorithm about 3D point could matching.
   <br/>
 
 - **MIMA Group, Shandong University**<br/>
   Research Assistant    (2017.09 - 2018.07) <br/>
-  Research focuses on deep hashing and generative adversarial networks.
+  - Research focuses on deep hashing and generative adversarial networks.
   <br/>
 
 
