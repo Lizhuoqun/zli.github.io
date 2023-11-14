@@ -18,7 +18,7 @@ modified: 2023
   Responsible for the algorithm about 3D point could matching.
   <br/>
 
-  - **MIMA Group, Shandong University**<br/>
+- **MIMA Group, Shandong University**<br/>
   Research Assistant    2017.09 - 2018.07 
   Research focuses on deep hashing and generative against model.
   <br/>
