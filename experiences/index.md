@@ -20,7 +20,7 @@ modified: 2023
 
 - **MIMA Group, Shandong University**<br/>
   Research Assistant    2017.09 - 2018.07 
-  Research focuses on deep hashing and generative against model.
+  Research focuses on deep hashing and generative adversarial networks.
   <br/>
 
 
