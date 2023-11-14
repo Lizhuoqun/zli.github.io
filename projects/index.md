@@ -8,14 +8,14 @@ modified: 2023
 
 ## Work Experiences
 - **Debiased Imitation Learning for Modulated Temporal Point Processes**<br/>
-  -Model biased event sequences as modulating TPPs with additional unknown thinning processes.<br/>
-  -Develop a novel debiased imitation learning framework to learn the modulated TPPs.<br/>
-  -Design a simple but effective reward function based on the historical embedding.<br/>
+  - Model biased event sequences as modulating TPPs with additional unknown thinning processes.<br/>
+  - Develop a novel debiased imitation learning framework to learn the modulated TPPs.<br/>
+  - Design a simple but effective reward function based on the historical embedding.<br/>
  
 
 - **Sparse Transformer Hawkes Process for Long Event Sequences**<br/>
-  -Design a novel temporal sparse self-attention mechanism for event sequences with arbitrary intervals.<br/>
-  -Proposed a two-level transformer model to capture both the short-term and long-term information.<br/>
+  - Design a novel temporal sparse self-attention mechanism for event sequences with arbitrary intervals.<br/>
+  - Proposed a two-level transformer model to capture both the short-term and long-term information.<br/>
 
 
 
