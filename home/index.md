@@ -12,7 +12,7 @@ I am a Ph.D. candidate at Louisiana State University， under the guidance of Dr
   Doctor of Philosophy of Computer Science    (2021.08 – Present) 
   <br/>
 - **Shandong University**<br/>
-  Bachelor of Software Engineering  &nbsp&nbsp&nbsp  (2015.09 – 2019.06) 
+  Bachelor of Software Engineering  (2015.09 – 2019.06) 
   <br/>
 
 
