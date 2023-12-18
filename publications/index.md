@@ -5,12 +5,12 @@ excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2023
 ---
 
-- **[Debiased Imitation Learning for Modulated Temporal Point Processes.]([https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch52])**<br/>
+- **[Debiased Imitation Learning for Modulated Temporal Point Processes.](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch52)**<br/>
   Zhuoqun Li, Zihan Zhou, Mingxuan Sun, and Hongteng Xu
   <br/>
 
 
-- **[Sparse Transformer Hawkes Process for Long Event Sequences.]([https://link.springer.com/chapter/10.1007/978-3-031-43424-2_11])**<br/>
+- **[Sparse Transformer Hawkes Process for Long Event Sequences.](https://link.springer.com/chapter/10.1007/978-3-031-43424-2_11)**<br/>
    Zhuoqun Li,  Mingxuan Sun
   <br/>
 
