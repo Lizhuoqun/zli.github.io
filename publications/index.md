@@ -10,7 +10,7 @@ modified: 2023
   <br/>
 
 
-- **[Sparse Transformer Hawkes Process for Long Event Sequences.](https://link.springer.com/chapter/10.1007/978-3-031-43424-2_11)**<br/>
+- **[Sparse Transformer Hawkes Process for Long Event Sequences.](https://link.springer.com/chapter/10.1007/978-3-031-43424-2_11)[[code]](https://github.com/zli218)**<br/>
    Zhuoqun Li,  Mingxuan Sun
   <br/>
 
