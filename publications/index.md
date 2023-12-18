@@ -5,7 +5,7 @@ excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2023
 ---
 
-- **[Debiased Imitation Learning for Modulated Temporal Point Processes.](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch52)[code](https://github.com/zli218/imitation_hawkes_process)**<br/>
+- **[Debiased Imitation Learning for Modulated Temporal Point Processes.](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch52)[[code]](https://github.com/zli218/imitation_hawkes_process)**<br/>
   Zhuoqun Li, Zihan Zhou, Mingxuan Sun, and Hongteng Xu
   <br/>
 
